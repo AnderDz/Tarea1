@@ -1,0 +1,41 @@
+{
+    "producto":[
+        {
+            "Id": 1,
+            "Descripcion": "Mouse",
+            "Precio" : "30.00",
+            "Imagen" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%D0%9C%D1%8B%D1%88%D1%8C_2.jpg/1200px-%D0%9C%D1%8B%D1%88%D1%8C_2.jpg"
+        },
+        {
+            "Id": 2,
+            "Descripcion": "Teclado",
+            "Precio" : "50.00",
+            "Imagen" : "https://m.media-amazon.com/images/I/61efvyxdAZL._AC_SL1200_.jpg"
+        },
+        {
+            "Id": 3,
+            "Descripcion": "Pantalla",
+            "Precio" : "700.00",
+            "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/118735825_1?wid=800&hei=800&qlt=70"
+        },
+        {
+            "Id": 4,
+            "Descripcion": "Memoria RAM",
+            "Precio" : "200.00",
+            "Imagen" : "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/ddr5-diferencias-ddr4-todo-debes-saber-nueva-generacion-memoria-ram-pc-2466523.jpg"
+        },
+        {
+            "Id": 5,
+            "Descripcion": "Audifonos",
+            "Precio" : "900.00",
+            "Imagen" : "https://pesonyb2c.vtexassets.com/arquivos/ids/209620/5d02da5df552836db894cead8a68f5f3.jpg?v=637323444689900000"
+        },
+        {
+            "Id": 6,
+            "Descripcion": "Pc",
+            "Precio" : "400.00",
+            "Imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/gsc_121186943_2940405_1?wid=800&hei=800&qlt=70"
+        }
+
+    ]
+}
